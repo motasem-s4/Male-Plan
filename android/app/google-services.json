@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159522929796",
+    "firebase_url": "https://meal-plan-6fed3.firebaseio.com",
+    "project_id": "meal-plan-6fed3",
+    "storage_bucket": "meal-plan-6fed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159522929796:android:d58321a1f3dc54505b56d1",
+        "android_client_info": {
+          "package_name": "motasemasfoor.meal_plan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159522929796-iqdl5qb3l9gv67eqq3uijp1p6l240b3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG-02IhTXdyEO_0qJgP1lxtMJ1-8kh40g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159522929796-iqdl5qb3l9gv67eqq3uijp1p6l240b3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
